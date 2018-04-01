@@ -1,4 +1,4 @@
-# HW 8 Chapters 11, 12, 13
+# HW 8 Chapters 11, 12
 
 from the book  
 
